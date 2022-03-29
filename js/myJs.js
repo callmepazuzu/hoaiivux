@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Ét ô ét", 
+  text2: "Ấn tiếp tục để xem lời nhắn nè.",
+  text3: "chào em, anh đứng đây từ chiều!!!.",
+  text4: "Em ăn cơm chưa ? ăn anh đi nè.", 
+  text5: "HONG BÉ ƠI",
+  text6: "DẠ",
+  text7: "HEHE, á à :)) anh biết gòi nha",
+  text8: "IB cho anh nè",
+  text9: "ANH ƠI QUA ĐÓN EM ĐI NHÀ NGHỈ ĐI :)))",
+  text10: "Á à, hê hê",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "OK tối nay anh qua đón đi nhé :)) giờ còn đợi gì mà không ib cho anh đi nào!!",
+  text12: "Dạ",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "'//https://www.facebook.com/messages/t/10007544727062";
           },
         });
       }
